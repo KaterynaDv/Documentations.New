@@ -1,0 +1,7 @@
+# <center> Add Python plugging to Eclipse
+1. Open Eclipse
+2. Open Help =>Eclipse Marketplace
+3. Choose Pluggin, which needed
+4. Write in line “Find” 
+<blockquote>Python</blockquote>
+5. Choose “PyDev - Python IDE for Eclipse 9.3.0 - install
